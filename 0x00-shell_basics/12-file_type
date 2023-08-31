@@ -1,2 +1,3 @@
 #!/bin/bash
-file /tmp/imafile
+echo "File type of iamafile: $(file /tmp/iamafile)"
+
